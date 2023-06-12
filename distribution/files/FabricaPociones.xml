@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\KRene\OneDrive\Documentos\DAM 1\ENDES\FabricaPociones\dist\FabricaPocionesKRCC.jar</jar>
+  <outfile>C:\Users\KRene\OneDrive\Documentos\DAM 1\ENDES\FabricaPociones\distribution\files\PotionCraft.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest>C:\Users\KRene\OneDrive\Documentos\DAM 1\ENDES\FabricaPociones\manifest.mf</manifest>
+  <icon>C:\Users\KRene\OneDrive\Documentos\DAM 1\ENDES\FabricaPociones\distribution\ico.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.0.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.1.1.1</fileVersion>
+    <txtFileVersion>1.1</txtFileVersion>
+    <fileDescription>Juego</fileDescription>
+    <copyright>(CC) Castillo</copyright>
+    <productVersion>1.1.1.1</productVersion>
+    <txtProductVersion>1.1</txtProductVersion>
+    <productName>FabricaPocion</productName>
+    <companyName></companyName>
+    <internalName>FP</internalName>
+    <originalFilename>FabricaPociones.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>CASTILIAN_SPANISH</language>
+  </versionInfo>
+</launch4jConfig>
